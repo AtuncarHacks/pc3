@@ -1,0 +1,33 @@
+[
+    {
+      "entrenador": "Brock",
+      "pokemons": [
+        {
+          "nombre": "Mewtwo",
+          "tipo": "psíquico",
+          "foto": "https://play-lh.googleusercontent.com/proxy/HoD2eiw-lDW3hpDSPFdlb2FXlFSfWnVVVLQeAxW8n7l7tGgn9Rjh6VtbwMFXaoE_Fsh8rbYpAtAXVwkMhpTrFakzpOL5FgoAIBVba7hj_SIAhQb1=s3840-w3840-h2160"
+        },
+        {
+          "nombre": "Groudon",
+          "tipo": "tierra",
+          "foto": "https://images.saymedia-content.com/.image/t_share/MjA1ODA2MzUxODc0OTI2NDYz/pokemon-groudon-nicknames.jpg"
+        }
+      ]
+    },
+    {
+      "entrenador": "Ash Quetchu",
+      "pokemons": [
+        {
+          "nombre": "Lucario",
+          "tipo": "lucha y acero",
+          "foto": "https://wallpapers-clan.com/wp-content/uploads/2024/04/pokemon-lucario-blue-desktop-wallpaper-preview.jpg"
+        },
+        {
+          "nombre": "Gengar",
+          "tipo": "fantasma",
+          "foto": "https://i.pinimg.com/originals/c8/5f/40/c85f40d8828fae2a5464320abe0e6aca.jpg"
+        }
+      ]
+    }
+  ]
+  
